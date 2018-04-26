@@ -1,5 +1,13 @@
 {
   "expo": {
-    "sdkVersion": "26.0.0"
+    "name": "Just a native test",
+    "slug": "just-a--native-slug",
+    "sdkVersion": "26.0.0",
+    "ios": {
+      "bundleIdentifier": "com.just.justanativetest"
+    },
+    "android": {
+      "package": "com.just.justanativetest"
+    }
   }
 }
